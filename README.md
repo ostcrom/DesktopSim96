@@ -4,4 +4,4 @@
 ## How to run:
 Open index.html in a web browser.
 
-![Screenshot of Desktop Sim 96](https://imgur.com/irIye7U)
+![Screenshot of Desktop Sim 96](https://imgur.com/irIye7U.jpg)
